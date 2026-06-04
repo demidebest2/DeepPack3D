@@ -13,7 +13,7 @@ setup(
     install_requires=[
         'numpy==1.26.4',
         'matplotlib==3.9.0',
-        'tensorflow==2.10.0',
+        'tensorflow>=2.16.0',
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
